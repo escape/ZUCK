@@ -1,6 +1,6 @@
 # ZUCK
 
-> (Z)one of (U)nseen (C)ognitive (K)illers — The Identity Trap. Indexing algorithmically promoted identities that promise self-improvement, belonging, and purpose — but deliver chronic grievance, financial exploitation, and a pipeline toward extremism.
+> Indexing algorithmically promoted identities that promise self-improvement, belonging, and purpose — but deliver chronic grievance, financial exploitation, and a pipeline toward extremism. ZUCK stands for (Z)one of (U)nseen (C)ognitive (K)illers — The Identity Trap.
 >
 > **Find yours. Understand the game.**
 
