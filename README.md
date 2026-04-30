@@ -1,6 +1,6 @@
-# ZUCK — The Identity Trap
+# ZUCK
 
-> (Z)one of (U)nseen (C)ognitive (K)illers — Indexing algorithmically promoted identities that promise self-improvement, belonging, and purpose — but deliver chronic grievance, financial exploitation, and a pipeline toward extremism.
+> (Z)one of (U)nseen (C)ognitive (K)illers — The Identity Trap. Indexing algorithmically promoted identities that promise self-improvement, belonging, and purpose — but deliver chronic grievance, financial exploitation, and a pipeline toward extremism.
 >
 > **Find yours. Understand the game.**
 
