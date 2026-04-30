@@ -2,13 +2,10 @@
 
 > The Identity Trap: indexing algorithmically promoted identities that promise self-improvement, belonging, and purpose — but deliver chronic grievance, financial exploitation, and a pipeline toward extremism.
 >
-> **Find yours. Understand the game.**
-
-🌐 **Live site (alpha - launching May 10th, 2026):** [thehumanspace.org/identity-profiles](https://thehumanspace.org/identity-profiles)
 
 ---
 
-## Why this exists
+## Why
 
 Algorithms don't just serve content — they construct identities. A teenager searching for gym advice gets served masculinity content. A lonely young man looking for community finds a world that explains his isolation as someone else's fault. A woman seeking simpler living gets channeled toward ethno-nationalism.
 
