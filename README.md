@@ -3,11 +3,11 @@
 > The Identity Trap: indexing algorithmically promoted identities that promise self-improvement, belonging, and purpose — but deliver chronic grievance, financial exploitation, and a pipeline toward extremism.
 >
 
-### Early preview
-
-This is the first public draft of the project — a preliminary release for feedback, review, and source citation work. Expect active updates as the data and methodology are refined.
+## Early preview
 
 🟡 **v0.1 — first public release**
+
+This is the first public draft of the project — a preliminary release for feedback, review, and source citation work. Expect active updates as the data and methodology are refined.
 
 ## Why
 
@@ -23,7 +23,7 @@ This project makes those patterns visible. It's a directed graph: nodes are iden
 
 ## Current status
 
-🟡 **v0.1 — first public release.** Core data is complete. Content review, source citations, and JSON export are in progress.
+Core data should be sufficiently complete. Content review, source citations, and JSON export are in progress.
 
 | Metric | Count | Status |
 |--------|-------|--------|
@@ -34,12 +34,14 @@ This project makes those patterns visible. It's a directed graph: nodes are iden
 | [Deception tactics (vocabulary)](DATA/tactics/) | 14 | Stable |
 
 **What's complete:**
+
 - All 52 identity nodes across 7 clusters, each with hook, cost, tactics, timelines, and intervention
 - 125 directed edges with strength and mechanism
 - Schema covering nodes, edges, clusters, tag vocabulary, and tactics vocabulary
 - `trap_depth` scale on all terminal nodes
 
 **What's next:**
+
 - Per-node source citations (`evidence_sources`)
 - JSON export for visualization and content ops integration
 - `methodology.md` and `sources.md`
@@ -48,11 +50,16 @@ See [CHANGELOG.md](CHANGELOG.md) for version history.
 
 ## Who this is for
 
+### Specialists
+
+- **Researchers** — studying algorithmic radicalization, identity fusion, or digital extremism
+- **Developers** — building tools, visualizations, or interventions based on this data
+
+### People: head to thehumanspace.org (alpha)
+
+- **Individuals** — recognizing patterns in their own media consumption or that of friends/family
 - **Educators** — teaching media literacy, critical thinking, or digital citizenship
 - **Parents** — understanding what their kids are encountering online
-- **Researchers** — studying algorithmic radicalization, identity fusion, or digital extremism
-- **Individuals** — recognizing patterns in their own media consumption or that of friends/family
-- **Developers** — building tools, visualizations, or interventions based on this data
 
 ## Repository structure
 
@@ -117,9 +124,8 @@ This project describes manipulative, extremist, and violent ideologies for **edu
 Reading about these identities does not mean endorsing them. If you recognize yourself in any profile, that's the point — and the intervention section is there for a reason.
 
 If you or someone you know is in crisis:
-- **988** (US Suicide & Crisis Lifeline)
-- **116 123** (EU Samaritans)
-- **crisis text line:** text HOME to 741741
+
+(Emergency contacts following here)
 
 ## Contributing
 
