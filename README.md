@@ -19,15 +19,17 @@ These aren't accidents. They're patterns. The same structural mechanism repeats 
 2. **Cost** — hidden damage that the identity obscures
 3. **Pipeline** — a directed path toward deeper, more extreme identities
 
-This project makes those patterns visible. It's a directed graph: nodes are identities, edges are the escalation pathways between them. Once you see the structure, you can recognize the trap — in yourself, in people you care about, or in the platforms that profit from it.
+This project makes those patterns visible. It's a directed graph: nodes are identities, edges are the escalation pathways between them. 
+
+Once you see the structure, you can recognize the trap — in yourself, in people you care about, or in the platforms that profit from it.
 
 ## Current status
 
-This project is in an initial detection phase. The current graph is sufficiently developed to test pattern discovery and visibility, but identity coverage, cluster definitions, and edge mappings remain provisional and will continue to grow as new relevant identities are identified.
+This project is in an initial detection phase. The current graph is sufficiently developed to test pattern discovery and visibility, while the set of identities, clusters, and pipeline mappings is still expanding to capture the identities that are actively shaping online pathways.
 
 | Metric | Count | Status |
 |--------|-------|--------|
-| [Identities (nodes)](DATA/nodes/) | 52 | Initial coverage — growing |
+| [Identities (nodes)](DATA/nodes/) | 52 | Initial coverage — expanding |
 | [Clusters](DATA/clusters/) | 7 | Provisional |
 | [Pipeline connections (edges)](DATA/edges/) | 125 | Initial mapping — review ongoing |
 | Terminal nodes | 6 | In place |
@@ -42,7 +44,7 @@ This project is in an initial detection phase. The current graph is sufficiently
 
 **What is still evolving:**
 
-- Identity and cluster coverage as new relevant profiles are added
+- Identity and cluster coverage as new relevant profiles are discovered
 - Per-node source citations (`evidence_sources`)
 - JSON export for visualization and content ops integration
 - `methodology.md` and `sources.md`
